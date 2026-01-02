@@ -1,0 +1,22 @@
+# ===== Python virtual environment =====
+.venv/
+venv/
+env/
+
+# ===== Python cache =====
+__pycache__/
+*.py[cod]
+
+# ===== Build / distribution =====
+build/
+dist/
+*.egg-info/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== OS / Editor =====
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
